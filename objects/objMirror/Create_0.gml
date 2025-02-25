@@ -1,0 +1,2 @@
+draw = false
+colliding = false

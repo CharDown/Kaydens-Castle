@@ -1,0 +1,1 @@
+objLaserWall.sprite_index = sprLaserWallAnimation

@@ -1,0 +1,1 @@
+textseen = 0
